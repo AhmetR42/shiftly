@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: shiftly
+    runtime: docker
+    plan: free
+    healthCheckPath: /up

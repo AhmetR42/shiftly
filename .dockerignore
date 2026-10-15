@@ -1,0 +1,10 @@
+.git
+vendor
+node_modules
+frontend/node_modules
+frontend/dist
+public/assets
+public/index.html
+database/*.sqlite
+storage/logs/*
+.env
